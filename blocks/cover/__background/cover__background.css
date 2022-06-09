@@ -3,6 +3,7 @@
     width: 100%;
     min-height: 740px;
     object-fit: contain;
+    position: relative;
 }
 
 @media screen and (max-width: 1152px) {

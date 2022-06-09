@@ -1,0 +1,17 @@
+.place__website_link {
+    font-family: 'inter', Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    line-height: 22px;
+    font-weight: 400;
+    color: #FFF;
+}
+
+.place__website_link:hover{
+    opacity: 0.8;
+}
+@media screen and (max-width: 544px) {
+    .place__website_link {
+        grid-column: 1/2;
+        grid-row: 2/3;
+    }
+}

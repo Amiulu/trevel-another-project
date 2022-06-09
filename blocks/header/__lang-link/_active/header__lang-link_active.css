@@ -1,0 +1,4 @@
+.header__lang-link:focus {
+    border-bottom: 2px solid #fff;
+    padding-top: 4px;
+}

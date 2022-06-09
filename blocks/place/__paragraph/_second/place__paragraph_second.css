@@ -1,0 +1,10 @@
+.place__paragraph_second {
+    padding-top: 27px;
+    margin: 0;
+}
+
+@media screen and (max-width: 896px) {
+    .place__paragraph_second {
+    padding-top: 25px;
+    }
+}

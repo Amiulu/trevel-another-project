@@ -1,22 +1,22 @@
-.lead__position {
+.content__lead-position {
     margin: 0 auto;
     padding: 28px 0 46px;
 }
 
 @media screen and (max-width: 1152px) {
-    .lead__position {
+    .content__lead-position {
         padding: 24px 0 46px;
     }
 }
 
 @media screen and (max-width: 896px) {
-    .lead__position {
+    .content__lead-position {
         padding: 24px 0 44px;
     }
 }
 
 @media screen and (max-width: 544px) {
-    .lead__position {
+    .content__lead-position {
         padding: 24px 0 32px;
     }
 }

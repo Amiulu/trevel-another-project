@@ -3,21 +3,21 @@
 
 @import url('../blocks/page/page.css');
 /*шапка*/
+@import url('../blocks/page/__header-position/page__header-position.css');
 @import url('../blocks/header/header.css');
-@import url('../blocks/header/__position/header__position.css');
 @import url('../blocks/header/__lang-link/header__lang-link.css');
 @import url('../blocks/header/__lang-link/_active/header__lang-link_active.css');
 
 /* контент*/
 @import url('../blocks/lead/lead.css');
-@import url('../blocks/lead/__position/lead__position.css');
+@import url('../blocks/content/__lead-position.css');
 @import url('../blocks/lead/__title/lead__title.css');
 @import url('../blocks/lead/__subtitle/lead__subtitle.css');
 @import url('../blocks/lead/__image/lead__image.css');
 @import url('../blocks/lead/__caption/lead__caption.css');
 
 @import url('../blocks/intro/intro.css');
-@import url('../blocks/intro/__position/intro__position.css');
+@import url('../blocks/content/__intro-position.css');
 @import url('../blocks/intro/__title/intro__title.css');
 @import url('../blocks/intro/__text/intro__text.css');
 @import url('../blocks/intro/__list/intro__list.css');

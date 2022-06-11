@@ -36,14 +36,11 @@
 @import url('../blocks/place/__website/place__website.css');
 @import url('../blocks/place/__image/place__image.css');
 @import url('../blocks/place/__paragraph/place__paragraph.css');
-@import url('../blocks/place/__paragraph-first/place__paragraph-first.css');
-@import url('../blocks/place/__paragraph-second/place__paragraph_second.css');
 
 @import url('../blocks/cover/cover.css');
 @import url('../blocks/content/__cover-position/content__cover-position.css');
-@import url('../blocks/cover/__background/cover__background.css');
+@import url('../blocks/cover/__link/cover__link.css');
 @import url('../blocks/cover/__overlay/cover__overlay.css');
-@import url('../blocks/cover/__position/cover__position.css');
 @import url('../blocks/cover/__subtitle/cover__subtitle.css');
 @import url('../blocks/cover/__title/cover__title.css');
 

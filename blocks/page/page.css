@@ -17,8 +17,3 @@
     text-rendering: optimizeLegibility;
 }
 
-*,*::before,*::after {
-    outline: 1px solid red;
-}
-
-

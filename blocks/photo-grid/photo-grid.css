@@ -27,7 +27,7 @@
     .photo-grid {
         min-height: 2724px;
         grid-auto-rows: 12px;
-        grid-template-columns: repeat(1, 1fr); 
+        grid-template-columns: repeat(1, 1fr);
         grid-template-rows: repeat(12, 1fr);
     }
 }

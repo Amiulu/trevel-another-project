@@ -24,7 +24,7 @@
 
 @media screen and (max-width: 544px) {
     .place__title {
-        max-width: 288px;
+        width: 288px;
         grid-column: 1/2;
         grid-row: 1/2;
         font-size: 32px;

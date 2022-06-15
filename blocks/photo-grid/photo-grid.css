@@ -10,7 +10,7 @@
     .photo-grid {
         max-width: 100%;
         gap: 14px 14px;
-        grid-template-columns: repeat(3,calc((100vw - 124px)/3)); 
+        grid-template-columns: repeat(3,calc((100vw - 124px - 15px)/3)); 
         grid-template-rows: repeat(4, 1fr); 
     }
 }
@@ -18,7 +18,7 @@
 @media screen and (max-width: 896px) {
     .photo-grid {
         gap: 16px;
-        grid-template-columns: repeat(2, calc((100vw - 64px)/2)); 
+        grid-template-columns: repeat(2, calc((100vw - 64px - 15px)/2)); 
         grid-template-rows: repeat(6, 1fr); 
     }
 }

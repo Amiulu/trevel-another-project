@@ -1,28 +1,5 @@
 .places {
+    display: flex;
+    flex-direction: column;
     max-width: 984px;
-    min-height: 3392px;
-    display: grid;
-    grid-template-columns: 1 fit-content;
-    grid-template-rows: fit-content;
-}
-
-@media screen and (max-width: 1152px) {
-    .places {
-        max-width: 928px;
-        min-height: 3292px;
-    }
-}
-
-@media screen and (max-width: 896px) {
-    .places {
-        max-width: 720px;
-        min-height: 2808px;
-    }
-}
-
-@media screen and (max-width: 544px) {
-    .places {
-        max-width: 320px;
-        min-height: 5177px;
-    }
 }

@@ -1,16 +1,9 @@
 .intro__text {
     width: 100%;
-    min-height: 208px;
     font-family: 'inter', Arial, Helvetica, sans-serif;
     font-weight: 400;
     font-size: 16px;
     line-height: 163%;
     margin: 0;
     padding-top: 20px;
-}
-
-@media screen and (max-width: 544px) {
-    .intro__text {
-     min-height: 520px;
-    }
 }

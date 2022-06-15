@@ -1,13 +1,14 @@
 .page {
+    max-width: 1280px;
+    margin: 0 auto;
     background-color: #2A2C2F;
-    min-width: 320px;
     color: #ffffff;
     font-weight: 400;
     display: flex;
     flex-direction: column;
     align-content: center;
-    margin: 0 auto;
     padding: 28px 0 24px;
+    box-sizing: border-box;
     font-family: 'Inter';
     -moz-osx-font-smoothing: grayscale;
     -webkit-font-smoothing: antialiased;

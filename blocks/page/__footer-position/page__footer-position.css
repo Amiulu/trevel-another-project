@@ -1,10 +1,16 @@
 .page__footer-position {
-    margin: 46px 48px 0;
+    margin: 46px auto 0;
     }
     
+    @media screen and (max-width: 1152px) {
+        .page__footer-position {
+            margin: 44px 48px 0;  
+        }
+    }
+
     @media screen and (max-width: 896px) {
         .page__footer-position {
-            margin: 24px auto 0;  
+            margin: 44px 24px 0;  
         }
     }
     

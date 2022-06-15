@@ -1,15 +1,23 @@
     .content__intro-position {
-    margin: 46px  0 46px 48px;
+    padding-right: calc(984px - 690px);
+    margin: 46px  auto 46px;
+}
+
+@media screen and (max-width: 1152px) {
+    .content__intro-position {
+        padding-right: calc(928px - 690px);
+    }
 }
 
 @media screen and (max-width: 896px) {
     .content__intro-position {
-        margin: 44px  24px 44px 24px;
+        padding-right: 0;
+        margin: 44px  24px 44px;
     }
 }
 
 @media screen and (max-width: 544px) {
     .content__intro-position {
-        margin: 32px  16px 32px 16px;
+        margin: 32px 16px 32px;
     }
 }
